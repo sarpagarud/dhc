@@ -1,0 +1,28 @@
+{
+  "name": "dhc",
+  "version": "1.0.0",
+  "description": "Dev Help Cli",
+  "keywords": [
+    "dev",
+    "help",
+    "cli"
+  ],
+  "homepage": "https://github.com/sarpagarud/dhc#readme",
+  "bugs": {
+    "url": "https://github.com/sarpagarud/dhc/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarpagarud/dhc.git"
+  },
+  "engines": {
+    "node": ">=24.11.0"
+  },
+  "license": "MIT",
+  "author": "sarpagarud",
+  "type": "module",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
