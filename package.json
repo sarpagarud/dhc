@@ -23,6 +23,7 @@
   "type": "module",
   "main": "dist/index.js",
   "scripts": {
+    "lint:check": "eslint 'src/**/*.ts'",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
@@ -32,6 +33,7 @@
     "@types/node": "^25.0.8",
     "eslint": "^9.39.2",
     "globals": "^17.0.0",
+    "jiti": "^2.6.1",
     "prettier": "^3.7.4",
     "rollup": "^4.55.1",
     "ts-node": "^10.9.2",
