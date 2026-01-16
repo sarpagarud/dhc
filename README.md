@@ -45,4 +45,4 @@ This section acknowledges the repositories that were the source of inspiration.
 </table>
 
 ## License
-MIT
+See [LICENSE](https://github.com/sarpagarud/dhc/blob/main/LICENSE) for further details.
