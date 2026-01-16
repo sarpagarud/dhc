@@ -7,8 +7,10 @@
   <br>
 </p>
 
-<p align="center">
-  ![GitHub release (latest by date)](https://img.shields.io/github/v/release/sarpagarud/dhc)
+<p align="center"> 
+  <img src="https://img.shields.io/github/v/release/sarpagarud/dhc" alt="Release"> 
+  <img src="https://img.shields.io/github/license/sarpagarud/dhc" alt="License"> 
+  <img src="https://img.shields.io/github/stars/sarpagarud/dhc" alt="Stars"> 
 </p>
 
 ## Table of Contents 
