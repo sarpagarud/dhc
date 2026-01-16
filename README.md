@@ -2,7 +2,13 @@
 # dhc
 Dev Help Cli
 
-# Maintainers
+## Acknowledgment
+This section Acknowledge the repos that was the source of inspiration.
+- [ ] [eslint](https://github.com/eslint/eslint)
+- [ ] [angular]([https://github.com/eslint/eslint](https://github.com/angular/angular))
+- [ ] [django]([https://github.com/eslint/eslint](https://github.com/django/django))
+
+## Maintainers
 
 <table>
   <tbody>
