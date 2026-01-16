@@ -1,6 +1,6 @@
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/sarpagarud/dhc)
-# dhc
-Dev Help Cli
+
+<h1 align="center">dhc - Dev Help Cli</h1>
 
 ## Table of Contents 
 - [Installation](#installation)
