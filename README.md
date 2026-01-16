@@ -2,7 +2,7 @@
 
 <p align="center">
   <br>
-  <em>DHC is a command line development tool for building wide range of applications
+  <em>dhc is a command line development tool for building wide range of applications
     <br> using TypeScript/JavaScript and other languages.</em>
   <br>
 </p>
