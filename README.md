@@ -2,6 +2,17 @@
 # dhc
 Dev Help Cli
 
+## Table of Contents 
+- [Installation](#installation)
+- [Usage](#usage)
+- [Acknowledgment](#acknowledgment)
+- [Maintainers](#maintainers)
+- [License](#license)
+
+## Installation
+
+## Usage
+
 ## Acknowledgment
 This section acknowledges the repositories that were the source of inspiration.
 - [eslint](https://github.com/eslint/eslint)
@@ -21,3 +32,6 @@ This section acknowledges the repositories that were the source of inspiration.
     </tr>
   </tbody>
 </table>
+
+## License
+MIT
