@@ -3,7 +3,7 @@
 Dev Help Cli
 
 ## Acknowledgment
-This section Acknowledge the repos that was the source of inspiration.
+This section acknowledges the repositories that were the source of inspiration.
 - [eslint](https://github.com/eslint/eslint)
 - [angular](https://github.com/angular/angular)
 - [django](https://github.com/django/django)
