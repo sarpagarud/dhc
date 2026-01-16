@@ -1,6 +1,15 @@
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/sarpagarud/dhc)
-
 <h1 align="center">dhc - Dev Help Cli</h1>
+
+<p align="center">
+  <br>
+  <em>DHC is a command line development tool for building wide range of applications
+    <br> using TypeScript/JavaScript and other languages.</em>
+  <br>
+</p>
+
+<p align="center">
+  ![GitHub release (latest by date)](https://img.shields.io/github/v/release/sarpagarud/dhc)
+</p>
 
 ## Table of Contents 
 - [Installation](#installation)
