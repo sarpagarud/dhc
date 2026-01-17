@@ -21,7 +21,10 @@
   "license": "MIT",
   "author": "sarpagarud",
   "type": "module",
-  "main": "dist/index.js",
+  "main": "./dist/index.js",
+  "bin": {
+    "dhc": "./bin/dhc.js"
+  },
   "scripts": {
     "lint:check": "eslint 'src/**/*.ts'",
     "prettier:check": "prettier --check ./src",
