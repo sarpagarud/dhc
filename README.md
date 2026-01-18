@@ -1,3 +1,6 @@
+
+<a href="https://github.com/sarpagarud/dhc" align="center"><img src="./images/dhc-logo-180x180.png" width="180" height="180"></a>
+
 <h1 align="center">dhc - Dev Help Cli</h1>
 
 <p align="center">
