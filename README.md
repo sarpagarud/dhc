@@ -1,9 +1,7 @@
-
-<a href="https://github.com/sarpagarud/dhc" align="center"><img src="./images/dhc-logo-180x180.png" width="180" height="180"></a>
-
 <h1 align="center">dhc - Dev Help Cli</h1>
 
 <p align="center">
+  <a href="https://github.com/sarpagarud/dhc" align="center"><img src="./images/dhc-logo-180x180.png" alt="Dev Help Cli" width="180" height="180"></a>
   <br>
   <em>dhc is a command line development tool for building wide range of applications
     <br> using TypeScript/JavaScript and other languages.</em>
